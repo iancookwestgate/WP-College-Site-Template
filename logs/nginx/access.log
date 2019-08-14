@@ -1,0 +1,2 @@
+127.0.0.1 - - [14/Aug/2019:19:41:36 +0000] "POST /wp-cron.php?doing_wp_cron=1565811696.3299670219421386718750 HTTP/1.0" 200 0 "http://college-website-template.local/wp-cron.php?doing_wp_cron=1565811696.3299670219421386718750" "WordPress/5.2.2; http://college-website-template.local"
+127.0.0.1 - - [14/Aug/2019:19:41:36 +0000] "GET /2019/08/14/hello-world/ HTTP/1.0" 200 18556 "http://college-website-template.local/2019/08/14/hello-world/" "WordPress/5.2.2; http://college-website-template.local"
