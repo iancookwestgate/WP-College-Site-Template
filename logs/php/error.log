@@ -1,2 +1,2 @@
-[14-Aug-2019 19:41:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
-[14-Aug-2019 19:41:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in phar:///usr/local/bin/wp/vendor/wp-cli/wp-cli/php/WP_CLI/SynopsisValidator.php on line 92
+[08-Nov-2019 17:32:26 UTC] PHP Fatal error:  Class 'Requests_Hooks' not found in /app/public/wp-includes/class-wp-http-requests-hooks.php on line 17
+[08-Nov-2019 17:32:26 UTC] PHP Parse error:  syntax error, unexpected '%', expecting identifier (T_STRING) in phar:///usr/local/bin/wp/vendor/rmccue/requests/library/Requests.php on line 47
