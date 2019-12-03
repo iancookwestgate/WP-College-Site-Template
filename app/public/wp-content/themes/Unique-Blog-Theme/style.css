@@ -142,7 +142,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: none;
+  font-weight: inherit;
 }
 
 /**
